@@ -1,0 +1,1 @@
+SELECT DISTINCT first, middle, last, birth FROM students WHERE house = "Gryffindor" ORDER BY last, first
